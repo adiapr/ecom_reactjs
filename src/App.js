@@ -6,6 +6,7 @@ export class App extends Component {
     return (
       <div>
         <Button variant="warning">Warning</Button>
+        <Button variant="info"> <i className='fa fa-home'></i> Home</Button>
       </div>
     )
   }
