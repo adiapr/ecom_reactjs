@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react'
 
-// import isi sari react bootstrap
+// import isi dari react bootstrap
 import {Container, Row, Col, Card, Button} from 'react-bootstrap';
 
 export class FeaturedProducts extends Component {
